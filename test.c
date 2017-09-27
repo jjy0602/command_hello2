@@ -1,3 +1,7 @@
+A
+B
+B
+B
 
 hello jjyj
 
@@ -12,6 +16,7 @@ qkwejlqjee
 
 
 
+print()
 
 
 
@@ -19,3 +24,6 @@ qkwejlqjee
 
 
 
+
+
+ffjqkjweljwqelwqjelw
